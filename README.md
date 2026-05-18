@@ -4,7 +4,7 @@ Estudiante de Ingeniería en Sistemas Computacionales en el Instituto
 Tecnológico de Acapulco, titulándome en diciembre de 2026.
 
 ## 🔭 En qué trabajo ahora
-- **eNergYwatt** — App Android (Kotlin) para monitorear consumo eléctrico
+- **EnerMoney365** — App Android (Kotlin) para monitorear consumo eléctrico
   vía Raspberry Pi 5 + scraping a CFE. Clasificada a la etapa Nacional de
   InnovaTecNM 2025; en preparación para la edición 2026.
 
