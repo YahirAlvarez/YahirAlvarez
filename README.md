@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Yahir 👋
 
-<!--
-**YahirAlvarez/YahirAlvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas Computacionales en el Instituto
+Tecnológico de Acapulco, titulándome en diciembre de 2026.
 
-Here are some ideas to get you started:
+## 🔭 En qué trabajo ahora
+- **eNergYwatt** — App Android (Kotlin) para monitorear consumo eléctrico
+  vía Raspberry Pi 5 + scraping a CFE. Clasificada a la etapa Nacional de
+  InnovaTecNM 2025; en preparación para la edición 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Stack
+**Frontend:** React · Next.js · Vue.js · TailwindCSS  
+**Backend:** Laravel · Spring Boot · .NET / C#  
+**Móvil:** Kotlin (Android)  
+**Datos:** SQL Server · MySQL · MariaDB · SQLite  
+**Otros:** Python · Arduino · Raspberry Pi · PowerShell
+
+## 📫 Contacto
+yahiralvarez74@gmail.com
